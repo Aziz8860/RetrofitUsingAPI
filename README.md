@@ -1,7 +1,7 @@
 # RetrofitUsingAPI
 Simple news app showing articles from newsapi.org using recyclerview
 
-Library Used:
+Dependencies used:
 - Retrofit
 - Kotlinx Coroutines
 - Picasso
